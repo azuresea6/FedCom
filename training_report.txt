@@ -1,0 +1,13 @@
+=== Training Report ===
+Total Epochs: 5
+Batch Size: 64
+Learning Rate: 0.01
+
+Method: YourMethodName
+- Final Accuracy: 0.5821
+- Average computation Time: 0.16s
+- Total Comm Time: 9.00s
+- Data Transferred: 4.35MB
+- Overall_step: 28
+- Avg_step_time: 0.41s
+- Avg_communication_time: 0.32s
